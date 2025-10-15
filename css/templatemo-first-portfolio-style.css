@@ -507,13 +507,13 @@ strong {
 .hero-image-wrap {
   background: var(--white-color);
   border-radius: 100%;
-  width: 350px;
-  height: 350px;
+  width: 340px;
+  height: 340px;
   position: absolute;
   z-index: 22;
   top: -50px;
   right: 0;
-  left: 0;
+  left: 35px;
   margin: auto;
   pointer-events: none;
 }
