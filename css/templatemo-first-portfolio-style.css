@@ -13,7 +13,7 @@ https://templatemo.com/tm-578-first-portfolio
 :root {
   --white-color:                  #ffffff;
   --primary-color:                #535da1;
-  --secondary-color:              #14B789;
+  --secondary-color:              #8B9EFF;
   --section-bg-color:             #f9f9f9;
   --dark-color:                   #000000;
   --p-color:                      #717275;
@@ -513,7 +513,7 @@ strong {
   z-index: 22;
   top: -50px;
   right: 0;
-  left: 0;
+  left: 145px;
   margin: auto;
   pointer-events: none;
 }
@@ -1184,4 +1184,3 @@ strong {
     min-width: inherit;
   }
 }
-
